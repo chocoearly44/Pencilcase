@@ -7,6 +7,10 @@ Please refer to the [Wiki Section](https://github.com/chocoearly44/Pencilcase/wi
 ## Installing
 Download installer [here](https://github.com/chocoearly44/Pencilcase/releases).
 
+## Requirements
+- Currently, only supports Windows
+- Java 16 required to run
+
 ## Bug reporting
 If you encounter any bugs while using the tools please report them in the [Issues Section](https://github.com/chocoearly44/Pencilcase/issues) on GitHub Repository.
 
