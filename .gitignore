@@ -1,0 +1,6 @@
+/.idea
+/Output/
+/target
+*.iml
+/src/META-INF/
+/out/
