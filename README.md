@@ -1,5 +1,5 @@
 # Pencilcase
-A collection of bunch of essential cmd tools for Windows.
+A collection of a bunch of essential cmd tools for Windows.
 
 ## Documentation
 Please refer to the [Wiki Section](https://github.com/chocoearly44/Pencilcase/wiki).
