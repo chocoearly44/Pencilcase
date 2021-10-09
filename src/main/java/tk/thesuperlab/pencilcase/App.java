@@ -2,6 +2,7 @@ package tk.thesuperlab.pencilcase;
 
 import tk.thesuperlab.pencilcase.entities.OperatingMode;
 import tk.thesuperlab.pencilcase.entities.configs.Config;
+import tk.thesuperlab.pencilcase.modes.EncryptMode;
 import tk.thesuperlab.pencilcase.modes.PgpMode;
 import tk.thesuperlab.pencilcase.modes.WhoisMode;
 import tk.thesuperlab.pencilcase.utils.ConfigUtils;
@@ -21,6 +22,7 @@ public class App {
 
 		modes.put("pgp", new PgpMode(scanner));
 		modes.put("whois", new WhoisMode(scanner));
+		modes.put("encrypt", new EncryptMode(scanner));
 
 		modes.get(args[0]).start(args);
 	}
