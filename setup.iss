@@ -9,7 +9,7 @@
 #define MyAppBugs "https://github.com/chocoearly44/pencilcase/issues"
 
 ; Replace this
-#define SetupResources "E:\Dokumenti\IdeaProjects\pencilcase\resources"
+#define SetupResources "E:\Dokumenti\Git\pencilcase-installer\resources"
 
 [Setup]
 AppId={{40CDA22B-29FB-4744-AAD9-F82A4B5F8081}
