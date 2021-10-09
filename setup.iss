@@ -1,5 +1,5 @@
 #define MyAppName "Pencilcase"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "chocoearly44"
 
 #define MyAppURL "https://github.com/chocoearly44/pencilcase"
