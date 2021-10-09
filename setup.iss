@@ -42,6 +42,7 @@ Source: "{#SetupResources}\commands\ls.bat"; DestDir: "{app}"; Flags: ignorevers
 Source: "{#SetupResources}\commands\pgp.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#SetupResources}\commands\quit.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#SetupResources}\commands\whois.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "{#SetupResources}\commands\encrypt.bat"; DestDir: "{app}"; Flags: ignoreversion
 
 [Registry]
 Root: HKLM; Subkey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment"; ValueType: expandsz; ValueName: "Path"; ValueData: "{olddata};C:\Program Files (x86)\Pencilcase"; Check: NeedsAddPath('C:\Program Files (x86)\Pencilcase')
